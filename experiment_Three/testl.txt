@@ -1,0 +1,2 @@
+
+ of using keepGoing to allow batch insert to complete even when there are illegal documents in the batch
